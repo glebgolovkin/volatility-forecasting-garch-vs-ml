@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+arch
+matplotlib
+yfinance  # only for extras/rv5_proof_of_concept.py

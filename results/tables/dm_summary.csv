@@ -1,0 +1,7 @@
+comparison,n_stocks,HAR_better_sig,comp_better_sig,not_significant,mean_dm,mean_loss_diff
+HAR_vs_GARCH,39,38,0,1,6.276,0.09943
+HAR_vs_EGARCH,39,37,0,2,6.38,0.10003
+HAR_vs_LASSO,39,0,21,18,-1.956,-0.0048
+HAR_vs_RF,39,2,0,37,1.37,0.02962
+HAR_vs_HV,39,39,0,0,7.384,0.14637
+HAR_vs_EWMA,39,39,0,0,7.064,0.12154
